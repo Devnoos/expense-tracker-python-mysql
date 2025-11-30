@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Tracker
 
 A simple console-based Expense Tracker application to manage personal expenses.  
@@ -80,3 +81,6 @@ Filter expenses by date or category
 Generate monthly reports
 
 Add a GUI interface for better user experience
+=======
+# expense-tracker-python-mysql
+>>>>>>> 9bc16f5749cccbb3da77422dd77d827f36d9bece

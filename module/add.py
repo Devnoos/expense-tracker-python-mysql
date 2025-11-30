@@ -25,4 +25,4 @@ def add_expense():
     crs.close()
     conn.close()
 
-    
+        
